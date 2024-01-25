@@ -19,8 +19,9 @@ h4 {
  /*Début Bande pour logo au top */
 .band {
   position: relative;
-  height: 100px;
-  background-color: #F3F3F3;
+  height: 200px;
+  background-color: #ffffff;
+  padding: 10px;
 }
 /* Fin Bande pour logo au top */
 
