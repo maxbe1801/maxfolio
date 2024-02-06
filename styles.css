@@ -16,6 +16,12 @@ h4 {
   text-align: left;
 }
 
+p .index {
+  line-height: 1.5;
+  text-align: center;
+  padding: 20px;
+}  
+
  /*Début Bande pour logo au top */
 .band {
   position: relative;
@@ -43,6 +49,11 @@ h4 {
 
 .active {
   background-color: #04AA6D;
+  color: white;
+}
+
+.activedropdcontent {
+  background-color: #a2b7af;
   color: white;
 }
 
@@ -94,6 +105,7 @@ h4 {
   display: block;
   text-align: left;
 }
+
 
 .langue {
   float: right;
@@ -235,3 +247,12 @@ h4 {
 }
 
 /*fin video à droite de texte */
+
+/* début image à droite de texte */
+
+.image_droite {
+  float: right;
+  padding: 5px;
+}
+
+/*fin image à droite de texte */
